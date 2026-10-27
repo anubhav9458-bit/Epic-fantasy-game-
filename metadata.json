@@ -1,0 +1,7 @@
+{
+  "name": "Fantasy Character Generator",
+  "description": "Generate unique fantasy characters with distinct names, classes, attributes, and lore at the click of a button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
